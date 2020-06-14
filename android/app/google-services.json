@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "8273132222",
+    "firebase_url": "https://agnostica-01.firebaseio.com",
+    "project_id": "agnostica-01",
+    "storage_bucket": "agnostica-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8273132222:android:df1ccac171cd1f88a6bcef",
+        "android_client_info": {
+          "package_name": "com.example.agnostica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8273132222-0926ma5qfa2ki4oru9skb97efst56rft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agnostica",
+            "certificate_hash": "d2586a6b7e639be83fb63fc9361624d27ac16ed2"
+          }
+        },
+        {
+          "client_id": "8273132222-v4ai4ommlqjev4fmd283sgbvjds8h6f6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe0JEhBwRSltOe4PYY3CdzzP9sl6Vcj9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8273132222-v4ai4ommlqjev4fmd283sgbvjds8h6f6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "8273132222-oej64b1hh2ad5j7a6cc78lv8mmkdgbij.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

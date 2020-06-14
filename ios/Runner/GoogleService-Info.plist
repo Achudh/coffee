@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>8273132222-oej64b1hh2ad5j7a6cc78lv8mmkdgbij.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.8273132222-oej64b1hh2ad5j7a6cc78lv8mmkdgbij</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>8273132222-0926ma5qfa2ki4oru9skb97efst56rft.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBKbV8g_VR-LTU3hEVy46D_j6kzEQAx5EU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>8273132222</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterapp</string>
+	<key>PROJECT_ID</key>
+	<string>agnostica-01</string>
+	<key>STORAGE_BUCKET</key>
+	<string>agnostica-01.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:8273132222:ios:1691f422119efe50a6bcef</string>
+	<key>DATABASE_URL</key>
+	<string>https://agnostica-01.firebaseio.com</string>
+</dict>
+</plist>
